@@ -1,5 +1,5 @@
 # baseball_elimination
-## Programming Assignment 3: Baseball Elimination
+## [Programming Assignment 3: Baseball Elimination](http://coursera.cs.princeton.edu/algs4/assignments/baseball.html)
 
 Given the standings in a sports division at some point during the season, determine which teams have been mathematically eliminated from winning their division.
 
@@ -117,8 +117,6 @@ Submission.   Submit BaseballElimination.java and any other supporting files (ex
 
 This assignment was developed by Kevin Wayne. 
 Copyright © 2003.
-
-[Baseball Elimination Assignment](http://coursera.cs.princeton.edu/algs4/assignments/baseball.html)
 
 ## [Checklist](http://coursera.cs.princeton.edu/algs4/checklists/baseball.html)
 
